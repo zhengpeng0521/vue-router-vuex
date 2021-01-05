@@ -1,4 +1,4 @@
-# test-pin
+# vue-router-vuex
 
 ## Project setup
 ```
